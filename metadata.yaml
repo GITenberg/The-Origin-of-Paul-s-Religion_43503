@@ -1,0 +1,28 @@
+_repo: The-Origin-of-Paul-s-Religion_43503
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43503-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Machen, J. Gresham (John Gresham)
+    alias: Machen, John Gresham
+    birthdate: 1881
+    deathdate: 1937
+    gutenberg_agent_id: '42260'
+    url: http://www.gutenberg.org/2009/agents/42260
+description: ''
+gutenberg_issued: '2013-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43503'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Epistles of Paul -- Theology'
+- !lcc 'BS'
+- !lcsh 'Paul, the Apostle, Saint'
+title: The Origin of Paul's Religion
+url: http://www.gutenberg.org/ebooks/43503
