@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42260'
     url: http://www.gutenberg.org/2009/agents/42260
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43503#The-Origin-of-Paul-s-Religion
 gutenberg_issued: '2013-08-18'
 gutenberg_type: Text
 identifiers:
